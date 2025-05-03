@@ -29,7 +29,16 @@ The pipeline uses Python tools including **RDKit**, **scikit-learn**, and **pand
 
 Clone the repo and install required dependencies:
 
-```bash
-git clone https://github.com/your-username/ligand-cheminformatics-bcrabl.git
-cd ligand-cheminformatics-bcrabl
+📦 Dependencies
+Install all with:
 pip install -r requirements.txt
+
+---
+
+## 🙏 Acknowledgments
+- ChEMBL Database – European Bioinformatics Institute
+
+- RDKit – Open-source cheminformatics toolkit
+
+
+
